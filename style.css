@@ -1,6 +1,6 @@
 body {
     background-color: lightgreen;
-    transition: background-color .5s;
+    transition: background-color 0.5s;
   }
   
   .player {
@@ -25,6 +25,10 @@ body {
     width: 250px;
     background-size: cover;
     border-radius: 15%;
+    transition: transform 0.3s ease;
+  }
+  .track-art:hover{
+    transform: translate(-10px);
   }
   
   .now-playing {
