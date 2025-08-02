@@ -31,7 +31,7 @@ let track_list = [
     artist: "Aashir Wajahat",
     image:
       "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://pagalsongs.com.in/files/download?id=12188",
+    path: "sadqay.mp3",
   },
   {
     name: "Agar Tum Saath Ho",
