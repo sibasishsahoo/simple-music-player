@@ -38,7 +38,7 @@ let track_list = [
     artist: "Alka Yagnik",
     image:
       "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://pagalsongs.com.in/files/download?id=913",
+    path: "Agar Tum Saath Ho - (Raag.Fm).mp3",
   },
 ];
 
